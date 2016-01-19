@@ -14,5 +14,6 @@ class ScopeTesting {
       System.out.println(favoriteLetter);
     }
     System.out.println(favoriteLetter);
+    System.out.println("SECOND");
   }
 }
